@@ -1,0 +1,7 @@
+Django>=4.2
+djangorestframework
+Pillow
+numpy
+# Optional but recommended for face recognition
+face_recognition
+opencv-python
